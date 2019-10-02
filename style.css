@@ -2,6 +2,11 @@
 body {
 	margin: 0;
 	font-family: 'Mansalva', cursive;
+	background: #D23333;
+}
+
+h1 {
+	color: white;
 }
 
 #logo {
